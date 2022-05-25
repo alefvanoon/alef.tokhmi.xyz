@@ -30,8 +30,8 @@ languages:
           series: FAseries
         menu:
             main:
-                - name: FATags
-                  url: fatags
+                - name: آرشیو
+                  url: faarchives
                   weight: 10
 
     en:
@@ -65,8 +65,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description:
+    author: Alefvanoon
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -97,21 +97,16 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
-        Content: >
-            Welcome to demo of hugo's theme PaperMod.
-
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+        Title: "Blog"
+        Content:
 
     socialIcons:
-        - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+        - name: Mastodon
+          url: "https://tokhmi.xyz/@alefvanoon"
+        - name: Twitter
+          url: "https://twitter.com/@alefvanoon"
+        - name: GitHub
+          url: "https://github.com/alefvanoon"
         - name: RsS
           url: "index.xml"
 
