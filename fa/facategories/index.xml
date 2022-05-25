@@ -8,25 +8,6 @@
       <url>https://alef.tokhmi.xyz/papermod-cover.png</url>
       <link>https://alef.tokhmi.xyz/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alef.tokhmi.xyz/fa/facategories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>syntax</title>
-      <link>https://alef.tokhmi.xyz/fa/facategories/syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://alef.tokhmi.xyz/fa/facategories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://alef.tokhmi.xyz/fa/facategories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://alef.tokhmi.xyz/fa/facategories/themes/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://alef.tokhmi.xyz/fa/facategories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
