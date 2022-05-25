@@ -2,123 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/</loc>
+    <loc>https://alef.tokhmi.xyz/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/</loc>
+    <loc>https://alef.tokhmi.xyz/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax.fr/</loc>
+    <loc>https://alef.tokhmi.xyz/posts/markdown-syntax.fr/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/"
-                />
-  </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/</loc>
+    <loc>https://alef.tokhmi.xyz/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/"
+                href="https://alef.tokhmi.xyz/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/posts/"
+                href="https://alef.tokhmi.xyz/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/series/</loc>
+    <loc>https://alef.tokhmi.xyz/tags/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/</loc>
+    <loc>https://alef.tokhmi.xyz/series/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/</loc>
+    <loc>https://alef.tokhmi.xyz/posts/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alef.tokhmi.xyz/posts/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://alef.tokhmi.xyz/fa/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alef.tokhmi.xyz/posts/"
+                />
+  </url><url>
+    <loc>https://alef.tokhmi.xyz/series/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alef.tokhmi.xyz/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alef.tokhmi.xyz/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/css/</loc>
+    <loc>https://alef.tokhmi.xyz/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/html/</loc>
+    <loc>https://alef.tokhmi.xyz/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/markdown/</loc>
+    <loc>https://alef.tokhmi.xyz/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/</loc>
+    <loc>https://alef.tokhmi.xyz/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://adityatelange.github.io/hugo-PaperMod/fa/posts/markdown-syntax/"
+                href="https://alef.tokhmi.xyz/fa/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://adityatelange.github.io/hugo-PaperMod/posts/markdown-syntax/"
+                href="https://alef.tokhmi.xyz/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/syntax/</loc>
+    <loc>https://alef.tokhmi.xyz/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/themes/</loc>
+    <loc>https://alef.tokhmi.xyz/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/categories/themes/</loc>
+    <loc>https://alef.tokhmi.xyz/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/series/themes-guide/</loc>
+    <loc>https://alef.tokhmi.xyz/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/privacy/</loc>
+    <loc>https://alef.tokhmi.xyz/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/rich-content/</loc>
+    <loc>https://alef.tokhmi.xyz/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/shortcodes/</loc>
+    <loc>https://alef.tokhmi.xyz/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/placeholder-text/</loc>
+    <loc>https://alef.tokhmi.xyz/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/text/</loc>
+    <loc>https://alef.tokhmi.xyz/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/math-typesetting/</loc>
+    <loc>https://alef.tokhmi.xyz/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/tags/emoji/</loc>
+    <loc>https://alef.tokhmi.xyz/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/posts/emoji-support/</loc>
+    <loc>https://alef.tokhmi.xyz/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/archives.fr/</loc>
+    <loc>https://alef.tokhmi.xyz/archives.fr/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/archives/</loc>
+    <loc>https://alef.tokhmi.xyz/archives/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/search/</loc>
+    <loc>https://alef.tokhmi.xyz/search/</loc>
   </url><url>
-    <loc>https://adityatelange.github.io/hugo-PaperMod/search.fr/</loc>
+    <loc>https://alef.tokhmi.xyz/search.fr/</loc>
   </url>
 </urlset>
