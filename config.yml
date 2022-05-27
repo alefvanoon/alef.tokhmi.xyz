@@ -98,7 +98,9 @@ params:
 
     homeInfoParams:
         Title: "I'm Alef"
-        Content: ₿itcoiner & privacy enthusiast. 
+        Content: >
+₿itcoiner & privacy enthusiast. 
+Dont trust me, verify.
 
     socialIcons:
         - name: Mastodon
