@@ -22,8 +22,8 @@ languages:
         weight: 1
         title: الف و نون
         homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
+            Title: "وبلاگ الف"
+            Content: یک بیتکوینر و علاقه‌مند به حریم‌خصوصی.
         taxonomies:
           category: FAcategories
           tag: FAtags
@@ -31,7 +31,7 @@ languages:
         menu:
             main:
                 - name: آرشیو
-                  url: faarchives
+                  url: archives
                   weight: 10
 
     en:
