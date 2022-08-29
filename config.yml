@@ -113,7 +113,7 @@ params:
           url: "https://matrix.to/#/@alefvanoon:tokhmi.xyz"
         - name: Rss
           url: "index.xml"
-        - name: PGP
+        - name: GPG
           url: "https://alef.tokhmi.xyz/pgp.html"
 
     editPost:
