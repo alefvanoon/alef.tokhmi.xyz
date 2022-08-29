@@ -30,8 +30,8 @@ languages:
           series: FAseries
         menu:
             main:
-                - name: آرشیو
-                  url: archives
+                - name: درباره
+                  url: about
                   weight: 10
 
     en:
@@ -113,6 +113,8 @@ params:
           url: "https://matrix.to/#/@alefvanoon:tokhmi.xyz"
         - name: Rss
           url: "index.xml"
+        - name: PGP
+          url: "https://alef.tokhmi.xyz/pgp.html"
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
