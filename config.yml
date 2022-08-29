@@ -43,14 +43,11 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
-                  url: archives
+                - name: About
+                  url: about
                   weight: 5
                 - name: Search
                   url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
                   weight: 10
                 - name: Categories
                   url: categories/
@@ -113,7 +110,7 @@ params:
           url: "https://matrix.to/#/@alefvanoon:tokhmi.xyz"
         - name: Rss
           url: "index.xml"
-        - name: key
+        - name: Key
           url: "https://alef.tokhmi.xyz/pgp.html"
 
     editPost:
