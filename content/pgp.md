@@ -1,5 +1,6 @@
 ---
 author: "Alefvanoon"
+layout: "single"
 title: "Rich Content"
 date: "2022-12-27"
 tags: ["pgp", "privacy"]
