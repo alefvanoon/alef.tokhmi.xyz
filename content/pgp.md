@@ -1,7 +1,6 @@
 ---
 author: "Alefvanoon"
-layout: "single"
-title: "Rich Content"
+title: "my PGP key"
 date: "2022-12-27"
 tags: ["pgp", "privacy"]
 ---
