@@ -111,7 +111,7 @@ params:
         - name: Rss
           url: "index.xml"
         - name: Key
-          url: "https://alef.tokhmi.xyz/pgp.html"
+          url: "https://alef.tokhmi.xyz/pgp"
 
     editPost:
         URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
