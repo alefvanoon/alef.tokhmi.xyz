@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alef.tokhmi.xyz/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -13,6 +14,18 @@
                 hreflang="en"
                 href="https://alef.tokhmi.xyz/"
                 />
+  </url><url>
+    <loc>https://alef.tokhmi.xyz/tags/pgp/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alef.tokhmi.xyz/tags/privacy/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alef.tokhmi.xyz/pgp/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alef.tokhmi.xyz/tags/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alef.tokhmi.xyz/archives.fr/</loc>
   </url><url>
@@ -25,7 +38,5 @@
     <loc>https://alef.tokhmi.xyz/search.fr/</loc>
   </url><url>
     <loc>https://alef.tokhmi.xyz/series/</loc>
-  </url><url>
-    <loc>https://alef.tokhmi.xyz/tags/</loc>
   </url>
 </urlset>
